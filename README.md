@@ -1,5 +1,5 @@
-# CS50P_2023
-My personal experience in taking CS50P 2023 course
+# CS50P_2024
+My personal experience in taking CS50P 2024 course
 
 
 ## Disclaimer:
